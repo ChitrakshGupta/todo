@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: Poppins, "Segoe UI", sans-serif;
+  background: #e6e6e6;
+  color: #1f2430;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
