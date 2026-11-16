@@ -3,7 +3,7 @@
 Mobile to-do app: create, edit, delete, and search tasks, grouped into Monday–Sunday weeks with open and completed counts.
 
 - `backend/` — Express + Mongoose API
-- `frontend/` — Vite, React, Tailwind, Zustand
+- `frontend/` — Vite, React, Tailwind, Zustandlkhgubjh
 
 ## Local
 
